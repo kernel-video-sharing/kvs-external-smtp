@@ -1,7 +1,9 @@
 # KVS external smtp
 
-This project working [**Kernel Video Sharing Scripts  （KVS）**](https://www.kernel-video-sharing.com/en/ "**Kernel Video Sharing Scripts **")	  	
+This project working [**Kernel Video Sharing Scripts  （KVS）**](https://www.kernel-video-sharing.com/en/ "**Kernel Video Sharing Scripts **")	
+  	
 The KVS php mail function use by default , it's not good idea 		  
+
 We extended it to support external SMTP		  
 
 now you can use
